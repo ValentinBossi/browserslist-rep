@@ -1,0 +1,1 @@
+repo created on 27.6.2023 and browserslist installed on 27.6.2023 prints chrome 114. lockfile is committed so that the same version is used all the time resp. this repo should print always chrome 114 when no package update (or update db from browserslist) is made according to the comment in https://github.com/browserslist/browserslist/pull/770.

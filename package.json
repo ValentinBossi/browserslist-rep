@@ -3,11 +3,11 @@
   "version": "1.0.0",
   "description": "",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "print-browser-version": "browserslist"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "browserslist": "^4.21.9"
+    "browserslist": "4.21.9"
   }
 }
